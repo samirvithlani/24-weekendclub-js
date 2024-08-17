@@ -1,0 +1,93 @@
+JAVA SCRIPT:
+
+programming language:
+
+scripting language:
+:it sub set of programming language,
+diff : 
+1) programming language is used to create software, application, etc.
+2) scripting language is used to automate the execution of task.
+
+
+void main(){
+    print("Hello World");
+}
+
+1stline will compile the code
+
+programming language: c,cpp,JAVA
+scripting language: python,java script,shell script
+
+dynamically typed language:js,python
+we dont have to mention the data type of the variable
+statically typed language: c,cpp,java
+int x = 10
+
+------------------------------------------------------------
+
+server side programming language: php,java,python
+client side programming language: js
+
+ways to write js:
+inline js
+internal js
+external js
+
+------------------------------------------------------------
+
+javascript compier : babel
+js engine:
+
+java script was developed by brendan eich in 1995
+for nestcape navigator browser
+
+firefox browser: spider monkey
+chrome browser: v8 engine
+safari browser: nitro engine
+edge browser: chakra engine
+
+
+do declare variable in js we have 3 keywords:
+variable: var, let, const
+
+var is having global scope
+let is having block scope
+const is having block scope
+
+block:
+{
+    //code
+}
+
+
+.js {}
+
+operators:
+operators are special symbols that perform specific operations on one, two, or three operands, and then return a result.
+
+type of operator:
+unary operator: it requires only one operand.   , ++, --, !
+binary operator: it requires two operands.
+ternary operator: it requires three operands. ?:
+
+binary operator:
+arithmetic operator: +, -, *, /, %, ++, --, **(exponentiation)
+assignment operator: =, +=, -=, *=, /=, %=
+comparison operator: ==, ===, !=, !==, >, <, >=, <=
+logical operator: &&, ||, !
+bitwise operator: &, |, ^, ~, <<, >>
+
+
+
+decision making statement:
+
+if else
+if(condition){
+    //code
+}
+else{
+    //code
+}
+
+switch case
+looping statement:
