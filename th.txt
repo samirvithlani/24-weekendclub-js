@@ -1,4 +1,4 @@
-HEtanshu
+HEtanshu Rajveer
 
 JAVA SCRIPT:
 
@@ -93,3 +93,10 @@ else{
 
 switch case
 looping statement:
+
+------------------------------------------------------------
+do while...
+
+please enter bank balacne: 1000
+req balance = 10000
+
