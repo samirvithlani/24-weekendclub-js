@@ -100,3 +100,12 @@ do while...
 please enter bank balacne: 1000
 req balance = 10000
 
+
+
+JSON : javascript object notation
+sid
+sname
+sage
+semail
+...
+20...
