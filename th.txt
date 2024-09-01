@@ -109,3 +109,19 @@ sage
 semail
 ...
 20...
+
+string:""
+mutability: can be changed | modified
+immutable: cannot be changed | modified
+
+javascript string is immutable with same reference
+var x = "hello"; //reference
+
+x = "world"; //new reference
+
+//array stors data in index manner
+//and index always starts from 0
+string stors data in array of character
+"ram"
+[r][a][m]
+[0][1][2]
