@@ -125,3 +125,13 @@ string stors data in array of character
 "ram"
 [r][a][m]
 [0][1][2]
+
+aasci value:
+A --> 65
+B --> 66
+
+
+space --> 32
+
+a --> 97
+b --> 98
