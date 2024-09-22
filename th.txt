@@ -135,3 +135,12 @@ space --> 32
 
 a --> 97
 b --> 98
+
+
+array:
+array is a collection of elements.
+array stores data in index manner
+index always starts from 0
+
+50 cities
+
