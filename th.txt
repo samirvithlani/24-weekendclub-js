@@ -142,5 +142,11 @@ array is a collection of elements.
 array stores data in index manner
 index always starts from 0
 
+
 50 cities
+
+var lang = ["Gujarati","Hindi","English","Marathi"];
+
+upperArray =[]
+
 
