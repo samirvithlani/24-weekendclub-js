@@ -150,3 +150,27 @@ var lang = ["Gujarati","Hindi","English","Marathi"];
 upperArray =[]
 
 
+
+functions: is block of code which is used fro code reusbality and many more advantages..
+type of funcitons:
+pre define funcitons  :
+user define funcitons :
+
+
+c language:
+return type name (param) {}
+void main(){
+
+}
+
+
+function keyword to create funcitons:
+funcitons funName(){}
+
+either it is user define functionor pre define funciton it have 4 types
+1)with return type with arguments
+1)with return type without arguments
+1)without return type with arguments
+1)without return type without arguments
+
+
