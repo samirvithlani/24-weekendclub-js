@@ -173,4 +173,14 @@ either it is user define functionor pre define funciton it have 4 types
 1)without return type with arguments
 1)without return type without arguments
 
+event:
+
+DOM == HTML --> capture..
+
+3 identifiers
+id
+name
+class
+tag
+
 
